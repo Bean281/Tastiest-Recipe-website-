@@ -1,0 +1,33 @@
+.food_info img {
+  width: 150px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.item_list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 200px;
+}
+
+.review_card {
+  width: 200px;
+}
+
+.name {
+  color: #ffff;
+  font-family: "Noto Serif", serif;
+}
+
+.description {
+  color: #a6a6a6;
+  font-family: "Noto Serif", serif;
+}
+
+.clicked-text .name {
+  color: #e3bf4f;
+}
+
+.clicked-text .description {
+  color: #e3bf4f;
+}

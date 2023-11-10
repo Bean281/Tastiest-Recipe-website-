@@ -1,0 +1,45 @@
+.header {
+  font-family: "Handlee", cursive;
+  color: #e3bf4f;
+  text-align: center;
+}
+
+.create {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.input_text {
+  color: #e3bf4f;
+  font-family: "Noto Serif", serif;
+  font-size: 1rem;
+  background-color: #b31212;
+}
+
+.input_text::placeholder {
+  color: #e3bf4f;
+}
+
+.button_remove {
+  width: 0;
+  height: 0;
+}
+
+.button_add {
+  background-color: #151515;
+  height: 35px;
+  width: 150px;
+  border: 1px solid #e3bf4f;
+  border-radius: 2%;
+  color: #e3bf4f;
+}
+
+.button_complete {
+  background-color: #151515;
+  height: 35px;
+  width: 150px;
+  border: 1px solid #e3bf4f;
+  border-radius: 2%;
+  color: #e3bf4f;
+}

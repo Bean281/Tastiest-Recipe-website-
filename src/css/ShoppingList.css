@@ -1,0 +1,28 @@
+.button_3 {
+  background-color: #151515;
+  height: 35px;
+  width: 75px;
+  border: 1px solid #e3bf4f;
+  border-radius: 2%;
+  color: #e3bf4f;
+}
+
+.button_3_group {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.button_2 {
+  background-color: #151515;
+  height: 35px;
+  width: 100px;
+  border: 1px solid #e3bf4f;
+  border-radius: 2%;
+  color: #e3bf4f;
+}
+
+.button_2_group {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}

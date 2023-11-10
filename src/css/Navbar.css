@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+.navbar-recipe .logo {
+  font-family: "Handlee", cursive;
+  font-size: 3rem;
+  color: #ffffff;
+}
+.item {
+  text-decoration: none;
+  color: #a6a6a6;
+  font-size: 1 rem;
+  font-family: "Noto Serif", serif;
+}
+
+a:hover {
+  color: #e3bf4f;
+}
+
+header {
+  position: relative;
+  padding: 0 2rem;
+}
+
+.navbar-recipe {
+  width: 100%;
+  height: 100px;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar-item {
+  display: flex;
+  gap: 10rem;
+}

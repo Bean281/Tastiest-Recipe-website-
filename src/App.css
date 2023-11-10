@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.body {
+  height: 200vh;
+  background-color: #282c34;
+  background-image: url("./img/Background.png");
+  background-size: cover;
+  background-position: center;
+}

@@ -1,0 +1,33 @@
+img {
+  width: 350px;
+  height: 250px;
+  border-radius: 2%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.dropdown button {
+  background-color: #2f3035;
+  color: #e3bf4f;
+  border: #e3bf4f solid 1px;
+}
+
+.inform {
+  color: #e3bf4f;
+  text-align: center;
+  font-size: 1 rem;
+  font-family: "Noto Serif", serif;
+}
+
+.menu-item .dropdown-item {
+  background-color: #2f3035;
+  color: #ffff;
+}
+
+.menu-item .dropdown-item:hover {
+  background-color: #2f3035;
+  color: #e3bf4f;
+  border: #e3bf4f solid 1px;
+}
+
+.info {
+}
